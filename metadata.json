@@ -1,0 +1,13 @@
+{
+  "name": "FROLIC Token",
+  "symbol": "FROLI",
+  "uri": "https://github.com/Probest888/frolic-token-images/raw/main/Untitled.png",
+  "creators": [
+    {
+      "address": "34SeqiWRiDnMJLzd122Rhnffroh7Wa58c6thGP2eQsjB",
+      "share": 100
+    }
+  ],
+  "seller_fee_basis_points": 500,
+  "image": "https://github.com/Probest888/frolic-token-images/raw/main/Untitled.png"
+}
